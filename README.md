@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fayrouz Mohamed</h1>
-<h3 align="center">A passionate computer science student from Egypt. I'm pursuing my Bachelor's Degree in computer science at University of the People. My commutative GPA is 4.00/4.00. I'm working on building my skills toward being a full-stack developer! I'm open to internships, open-source projects, and junior roles. Please feel free to contact me!</h3>
+<h3 align="center">A passionate computer science student from Egypt. I'm pursuing my Bachelor's Degree in computer science at University of the People. My commulative GPA is 4.00/4.00. I'm working on building my skills toward being a full-stack developer! I'm open to internships, open-source projects, and junior roles. Please feel free to contact me!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fayrouz10&label=Profile%20views&color=0e75b6&style=flat" alt="fayrouz10" /> </p>
 
