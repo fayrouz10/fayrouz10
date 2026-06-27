@@ -13,7 +13,7 @@ I am a passionate software developer and researcher from Alexandria, Egyypt <img
         As the Co-founder and CEO of iRozar.io, I'm dedicated to building impactful, scalable digital solutions 🚀!
 </p>
 
-<br>
+
 - 🌱 I’m actively developing with **Java, Python, FlutterFlow, Bubble, and AI APIs**.
 - 💬 Ask me about **EdTech, AI integrations, and low-code app development**.
 
