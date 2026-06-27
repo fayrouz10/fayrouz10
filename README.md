@@ -25,7 +25,7 @@
 ### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,flutter,android,firebase,illustrator,photoshop" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=java,python,flutter,firebase,illustrator,photoshop" alt="My Skills" />
   </a>
 </p>
 
