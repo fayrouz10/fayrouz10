@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/fayrouz10">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+Product+Engineer;EdTech+Researcher;Buisiness Enthusiast;Always learning something new" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=AI+Product+Engineer;EdTech+Researcher;Business+Enthusiast;Always+learning+something+new" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,7 +13,6 @@
 - 🔭 I’m currently focused on integrating generative AI into early childhood Educational Technology.
 - 🌱 I’m actively developing with **Java, Python, FlutterFlow, Bubble, and AI APIs**.
 - 💬 Ask me about **EdTech, AI integrations, and low-code app development**.
-- 📫 How to reach me: **(https://www.linkedin.com/in/fayrouz10/)**
 
 ### 🚀 Connect with me:
 <p align="left">
