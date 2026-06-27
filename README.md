@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fayrouz Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Fayrouz M. Rashed</h1>
 
 <p align="center">
   <a href="https://github.com/fayrouz10">
