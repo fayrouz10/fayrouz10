@@ -8,7 +8,7 @@
 
 <p align="center">
   I am a passionate software developer and researcher from Alexandria, Egypt <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/60c84a86-9848-4311-afb6-d1b460840ad5" align="absmiddle" />, bridging the gap between computer science and education.
-  I am currently pursuing my Bachelor's Degree in Computer Science 🎓 at University of the People with a <b>4.00 CGPA</b> 🥇, while simultaneously serving as an <b>Assistant Lecturer</b> in the Pedagogy Department and completing my <b>PhD</b> in Childhood Education at Alexandria University 🏛️.<br>
+  I am currently pursuing my Bachelor's Degree in Computer Science 🎓 at University of the People with a <b>4.00 CGPA</b> 🏆, while simultaneously serving as an <b>Assistant Lecturer</b> in the Pedagogy Department and completing my <b>PhD</b> in Childhood Education at Alexandria University 🏛️.<br>
   As the Co-founder and CEO of <b>iRozar.io</b>, I'm dedicated to building impactful, scalable digital solutions 🚀!
 </p>
 
