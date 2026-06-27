@@ -13,10 +13,11 @@ I am a passionate software developer and researcher from Alexandria, Egyypt <img
         As the Co-founder and CEO of iRozar.io, I'm dedicated to building impactful, scalable digital solutions 🚀!
 </p>
 
+<br>
 - 🌱 I’m actively developing with **Java, Python, FlutterFlow, Bubble, and AI APIs**.
 - 💬 Ask me about **EdTech, AI integrations, and low-code app development**.
 
-<br>
+
 ### 🚀 Connect with me:
 <p align="left">
   <a href="YOUR_LINKEDIN_URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
