@@ -1,24 +1,48 @@
+Here is an updated, dynamic `README.md` file designed to make your profile stand out based on "image_8e8ea1.png" and your background. It replaces the static icons with clean shield badges, upgrades your GitHub stats to use live dynamic cards with a cohesive dark theme, and deeply highlights your unique dual-expertise.
+
+*(Note: Remember to remove the `` tags when pasting this code into your GitHub repository!)*
+
+```markdown
 <h1 align="center">Hi 👋, I'm Fayrouz Mohamed</h1>
-<h3 align="center">A passionate computer science student from Egypt. I'm pursuing my Bachelor's Degree in computer science at University of the People.
-  My cumulative GPA is 4.00/4.00. I'm working on building my skills toward being an AI Product Engineer!</h3>
+<h3 align="center">AI Product Engineer | EdTech Researcher | Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fayrouz10&label=Profile%20views&color=0e75b6&style=flat" alt="fayrouz10" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fayrouz10" alt="fayrouz10" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ta-fayrouz-mohamed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ta-fayrouz-mohamed/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/fayrouz10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="fayrouz10" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fayrouz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fayrouz" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/fayrouz10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fayrouz10" height="30" width="40" /></a>
+<p align="center">
+  I am a passionate software developer and researcher from Alexandria, Egypt, bridging the gap between computer science and education. I am currently pursuing my Bachelor's Degree in Computer Science at University of the People with a 4.00 GPA, while simultaneously serving as an Assistant Lecturer in the Pedagogy Department and completing my PhD in Childhood Education at Alexandria University. As the Co-founder and CEO of iRozar.io, I'm dedicated to building impactful, scalable digital solutions!
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently focused on integrating generative AI into early childhood Educational Technology.
+- 🌱 I’m actively developing with **Java, Python, FlutterFlow, and the Gemini API**.
+- 💬 Ask me about **EdTech, AI integrations, and full-stack app development**.
+- 📫 How to reach me: **[Insert Your Email/LinkedIn Here]**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fayrouz10&show_icons=true&locale=en&layout=compact" alt="fayrouz10" /></p>
+### 🚀 Connect with me:
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="YOUR_KAGGLE_URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+  <a href="YOUR_HACKERRANK_URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+  <a href="YOUR_LEETCODE_URL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fayrouz10&show_icons=true&locale=en" alt="fayrouz10" /></p>
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fayrouz10&" alt="fayrouz10" /></p>
+### 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=fayrouz10&show_icons=true&theme=tokyonight" alt="Fayrouz's GitHub stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fayrouz10&theme=tokyonight" alt="Fayrouz's GitHub Streak" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayrouz10&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+```
