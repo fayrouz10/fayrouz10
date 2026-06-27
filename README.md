@@ -1,8 +1,4 @@
-Here is an updated, dynamic `README.md` file designed to make your profile stand out based on "image_8e8ea1.png" and your background. It replaces the static icons with clean shield badges, upgrades your GitHub stats to use live dynamic cards with a cohesive dark theme, and deeply highlights your unique dual-expertise.
 
-*(Note: Remember to remove the `` tags when pasting this code into your GitHub repository!)*
-
-```markdown
 <h1 align="center">Hi 👋, I'm Fayrouz Mohamed</h1>
 <h3 align="center">AI Product Engineer | EdTech Researcher | Software Developer</h3>
 
@@ -45,4 +41,4 @@ Here is an updated, dynamic `README.md` file designed to make your profile stand
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayrouz10&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-```
+
